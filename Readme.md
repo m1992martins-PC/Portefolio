@@ -162,9 +162,6 @@ Base de dados SQLite (`portefolio.db`) com as principais tabelas:
 - `bots_detectados`
 
 ---
-
-## 📁 Estrutura do Projeto
-
 ## 📁 Estrutura do Projeto
 /PORTFOLIO │ ├── app.py ├── utils.py ├── admin.py ├── mensagens.py ├── carro.py ├── despesas.py ├── trabalho.py │ ├── templates/ │   ├── admin/ │   ├── mensagens/ │   ├── carro/ │   ├── despesas/ │   ├── trabalho/ │   └── ... │ ├── static/ │   ├── css/ │   ├── js/ │   └── imagens/ │ ├── portefolio.db └── README.md
 ---
